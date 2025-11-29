@@ -9,10 +9,10 @@ This project focuses on predicting Finnish aFRR up-regulation price through weat
 <br><br>
 
 ## 📄 Report  
-[Report](#)
+[Report](/assets/project_demo.pdf)
 
 ## 💻 Code  
-[Code](#)
+[Code](/assets/project_demo.pdf)
 
 ## 📊 Dataset  
 [Dataset](#)
