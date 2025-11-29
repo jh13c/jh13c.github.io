@@ -8,13 +8,13 @@ This project focuses on predicting Finnish aFRR up-regulation price through weat
 
 <br><br>
 
-## 📄 Report  
-[Report](/assets/project_demo.pdf)
+## Report  
+[Report](/assets/Report.pdf)
 
-## 💻 Code  
-[Code](/assets/project_demo.pdf)
+## Code  
+[Code](assets/projectcode.ipynb)
 
-## 📊 Dataset  
-[Dataset](#)
+## Dataset  
+[Dataset](https://zenodo.org/records/17494556)
 
 
