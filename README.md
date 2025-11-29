@@ -4,7 +4,9 @@
 
 <br>
 
-This project focuses on predicting Finnish aFRR up-regulation price through weather factors such as cloud amount, wind speed, precipitation as well as demand-side factors including electricity consumption. Machine learning models including Ridge Regression, Support Vector Regression (SVR), Random forest Regression, and Multi-Layer Perceptron Regression are used to perform the prediction.
+The Automatic Frequency Restoration Reserve (aFRR) market is one of the key balancing mechanisms in Europe. The system operators automatically conduct up-regulation or down-regulation to maintain the grid frequency every few seconds. Up-regulation occurs when demand is higher than expected or supply is lower than expected, while down-regulation occurs in the reverse circumstances. Among the key balancing indicators, the aFRR Up-regulation price, referring to the marginal price for upward balancing energy, captures the real-time scarcity of supply. The Up-regulation price responds to unpredictable weather conditions as well as demand-side factors, making it often volatile. 
+
+The intention of this project is to develop a model that predicts the Finnish aFRR Up-regulation price using weather factors—such as cloud amount, wind speed, and precipitation—as well as demand-side factors including electricity consumption. The day-ahead spot price is also included for training, functioning as market reference. Understanding how these variables influence real-time balancing prices provides valuable insight into how the energy market operates and the effectiveness of the balancing mechanism. 
 
 <br><br>
 
