@@ -1,6 +1,6 @@
 <img align="right" width="220" height="220" src="/assets/IMG/template_logo.png">
 
-# Predicting Finnish aFRR Up-Regulation Price Using Weather and Demand-Side Data in the Electricity Market
+# Predicting aFRR Up-Regulation Energy Prices Using Weather, Demand-Side, and Spot Price Data
 
 <br>
 
