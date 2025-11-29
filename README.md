@@ -8,7 +8,8 @@ The intention of this project is to develop a model that predicts the Finnish aF
 <br><br>
 ## [Report](/assets/Report.pdf)
 
-## [Code](/assets/projectcode.ipynb)
+## [Code](https://colab.research.google.com/assets/colab-badge.svg)
+(https://colab.research.google.com/github/jh13c/jh13c.github.io/blob/main/assets/projectcode.ipynb)
 
 ## [Dataset](https://zenodo.org/records/17494556)
 
