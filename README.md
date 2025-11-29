@@ -6,13 +6,10 @@ The Automatic Frequency Restoration Reserve (aFRR) market is one of the key bala
 
 The intention of this project is to develop a model that predicts the Finnish aFRR Up-regulation price using weather factors—such as cloud amount, wind speed, and precipitation—as well as demand-side factors including electricity consumption. The day-ahead spot price is also included for training, functioning as market reference. Understanding how these variables influence real-time balancing prices provides valuable insight into how the energy market operates and the effectiveness of the balancing mechanism. 
 <br><br>
-## Report  
-[Report](/assets/Report.pdf)
+## [Report](/assets/Report.pdf)
 
-## Code  
-[Code](assets/projectcode.ipynb)
+## [Code](/assets/projectcode.ipynb)
 
-## Dataset  
-[Dataset](https://zenodo.org/records/17494556)
+## [Dataset](https://zenodo.org/records/17494556)
 
 
