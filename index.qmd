@@ -9,14 +9,22 @@ description: "UCLA Statistics and Data Science student with experience in produc
 [UCLA · Statistics and Data Science]{.hero-kicker}
 
 # Jiahong [Chen]{.name-accent} {#jiahong-chen}
-
-[I build products and analyze data. My work ranges from launching a partner operations platform at Tencent to studying whistler waves in satellite recordings.]{.hero-intro}
-
-[Explore my work](#work){.button .button-primary}
 :::
 
 ::: {.portrait-frame}
 <img src="assets/jiahong-chen.jpg" alt="Portrait of Jiahong Chen" width="1280" height="1920" fetchpriority="high">
+:::
+::::
+:::::
+
+::::: {#about .about-section}
+:::: {.page-shell .about-layout}
+## About me {#about-heading}
+
+::: {.about-copy}
+I’m a UCLA undergraduate pursuing a B.S. in Statistics and Data Science, with minors in Data Science Engineering and Atmospheric and Oceanic Sciences.
+
+At Tencent Marketing Solution, I led the development and launch of a channel partner operations platform. In my research, I’ve used Python to analyze satellite waveform data and study whistler waves.
 :::
 ::::
 :::::
