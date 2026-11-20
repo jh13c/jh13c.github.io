@@ -1,0 +1,18 @@
+project:
+  type: website
+  resources:
+    - assets/
+
+website:
+  title: "Jiahong Chen"
+  description: "Jiahong Chen, a UCLA Statistics and Data Science student working in product development and statistical research."
+  site-url: https://jh13c.github.io/
+
+format:
+  html:
+    theme: none
+    minimal: true
+    anchor-sections: false
+    css: assets/styles.css
+    include-before-body: _header.html
+    include-after-body: _footer.html
