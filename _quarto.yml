@@ -7,6 +7,7 @@ website:
   title: "Jiahong Chen"
   description: "Jiahong Chen, a UCLA Statistics and Data Science student working in product development and statistical research."
   site-url: https://jh13c.github.io/
+  favicon: assets/favicon.png
 
 format:
   html:
